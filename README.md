@@ -21,8 +21,9 @@ hobbies:
   "Writing code",
   "Learning new stuff"
 ]
-reach_me_at:[
-  "berant@mail.tau.ac.il"
+reach_me_at:
+[
+  "berant@mail.tau.ac.il",
   "ariel.berant@gmail.com"
 ]
 ```
